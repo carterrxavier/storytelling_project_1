@@ -11,4 +11,4 @@ Why? Because keeping customers is cheaper than getting new customers.
 
 
 slides for presentation
-{google_docs}https://drive.google.com/file/d/1XJvuHBG1MSxzAwGdzFwD4a7I1_J0ey2j/view?usp=sharing{/google_docs}
+https://docs.google.com/viewer?url=${https://drive.google.com/file/d/11z4UfKOZpp3r484WvC8E89xL0z10Jwok/view?usp=sharing}
