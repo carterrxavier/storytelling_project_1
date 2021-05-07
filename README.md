@@ -8,3 +8,7 @@ What do you think is driving them to churn? What can we do to try to keep these 
 
 Business Goal: Reduce customer attrition, a.k.a. Churn, among the customers on the month-to-month plan.
 Why? Because keeping customers is cheaper than getting new customers. 
+
+
+slides for presentation
+{google_docs}https://drive.google.com/file/d/1XJvuHBG1MSxzAwGdzFwD4a7I1_J0ey2j/view?usp=sharing{/google_docs}
